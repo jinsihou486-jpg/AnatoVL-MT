@@ -1,2 +1,5 @@
 # AnatoVL-MT
-AnatoVL-MT. Source code and the grade-label split will be added before publication. Fundus images are not redistributed.
+
+This repository will hold the implementation and the grade-label split used in the manuscript.
+
+Those files are not in this repository yet. Fundus images from Drishti-GS1 and RIM-ONE are not redistributed.
